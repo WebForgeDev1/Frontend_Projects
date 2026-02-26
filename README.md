@@ -1,11 +1,19 @@
-# Single-Page CV
+# 🚀 Frontend Projects A-Z
 
-A single-page HTML CV built as part of the roadmap.sh frontend projects.
+A collection of frontend projects built while following the [roadmap.sh](https://roadmap.sh) frontend developer path.
 
-## Project URL
+## 📁 Projects
 
-https://roadmap.sh/projects/single-page-cv
+| # | Project | Technologies | Live Demo | Roadmap |
+|---|---------|-------------|-----------|---------|
+| 01 | [Single-Page CV](./01-single-page-cv) | HTML, CSS | — | [View](https://roadmap.sh/projects/single-page-cv) |
 
-## Live Demo
+## 🛠️ Tech Stack
 
-<!-- optional: add GitHub Pages link if deployed -->
+- HTML5
+- CSS3
+
+## 👨‍💻 Author
+
+**WebForgeDev1**  
+GitHub: [@WebForgeDev1](https://github.com/WebForgeDev1)
